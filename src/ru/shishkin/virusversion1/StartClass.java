@@ -1,4 +1,4 @@
-package ru.shishkin.virusversion1;
+package ru.shishkin.virusVersion1;
 
 import java.awt.Color;
 import java.util.Random;
