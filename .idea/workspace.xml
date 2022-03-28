@@ -14,15 +14,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ru/shishkin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Files\MakShish\Desktop\git\VirusVersion1\src\ru\shishkin" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="StartClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.shishkin.virusVersion1.StartClass" />
-      <module name="VirusVersion1" />
+    <configuration name="SimpleVirusVersion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.shishkin.simpleVirusVersion1.SimpleVirusVersion1" />
+      <module name="SimpleVirus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.shishkin.virusVersion1.*" />
+          <option name="PATTERN" value="ru.shishkin.simpleVirusVersion1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -32,7 +37,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StartClass" />
+        <item itemvalue="Application.SimpleVirusVersion1" />
       </list>
     </recent_temporary>
   </component>
