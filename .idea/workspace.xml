@@ -18,13 +18,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Files\MakShish\Desktop\git\SimpleViruses\src\ru\shishkin" />
       <recent name="D:\Files\MakShish\Desktop\git\VirusVersion1\src\ru\shishkin" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="SimpleVirusVersion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.shishkin.simpleVirusVersion1.SimpleVirusVersion1" />
-      <module name="SimpleVirus" />
+      <module name="SimpleViruses" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.shishkin.simpleVirusVersion1.*" />

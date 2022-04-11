@@ -6,10 +6,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 public class SimpleVirusVersion1 {
-    // целые числа - integer
-    // вещественные числа - double
-    // символы - String
-    // точка входа, место начала работы программы
     public static void main(String[] args) {
         // переменна для случайных значений
         Random rnd = new Random();
@@ -39,8 +35,7 @@ public class SimpleVirusVersion1 {
     }
 
     // метод для получения случайного цвета
-    static Color rndColor() {
-        // переменна для случайных значений
+    private static Color rndColor() {
         Random rnd = new Random();
         int r = rnd.nextInt(255);
         int g = rnd.nextInt(255);

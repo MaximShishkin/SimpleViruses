@@ -7,8 +7,7 @@ import java.awt.event.ActionListener;
 import java.util.Random;
 
 public class Panel extends JPanel {
-    // конструктор класса
-    Panel() {
+    public Panel() {
         Random rnd = new Random(); // переменная rnd для случайных значений
 
         // Создание таймера
@@ -18,7 +17,6 @@ public class Panel extends JPanel {
             }
         });
 
-        // Запуск таймера
         timer.start();
     }
 }
