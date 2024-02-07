@@ -1,4 +1,4 @@
-package ru.shishkin.virusSpy;
+package ru.shishkin.viruses.virusSpy;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
@@ -53,23 +53,16 @@ public class Frame extends JFrame {
             tm.stop();
 
             JFrame wnd = new JFrame();
-
             wnd.setResizable(false);
-
             wnd.setBounds(0, 0, w, h);
 
             JPanel pan = new JPanel();
-
             pan.setBackground(Color.RED);
 
             wnd.add(pan);
-
             wnd.setUndecorated(true);
-
             wnd.setOpacity(0.5f);
-
             wnd.setAlwaysOnTop(true);
-
             wnd.setVisible(true);
 
             tm1 = new Timer(10, new ActionListener() {

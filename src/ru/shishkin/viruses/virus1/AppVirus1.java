@@ -1,11 +1,11 @@
-package ru.shishkin.simpleVirusVersion1;
+package ru.shishkin.viruses.virus1;
 
 import java.awt.Color;
 import java.util.Random;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-public class SimpleVirusVersion1 {
+public class AppVirus1 {
     public static void main(String[] args) {
         // переменна для случайных значений
         Random rnd = new Random();

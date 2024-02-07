@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d43101a-bda4-443b-a270-af80200cbda8" name="Changes" comment="" />
+    <list default="true" id="7d43101a-bda4-443b-a270-af80200cbda8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/shishkin/viruses/virusSpy/ApplicationVirusSpy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleViruses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Viruses.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/shishkin/simpleVirusVersion1/SimpleVirusVersion1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/shishkin/viruses/virus1/ApplicationVirus1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/shishkin/simpleVirusVersion2/Panel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/shishkin/viruses/virus2/Panel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/shishkin/simpleVirusVersion2/SimpleVirusVersion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/shishkin/viruses/virus2/ApplicationVirus2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/shishkin/virusSpy/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/shishkin/viruses/virusSpy/Frame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/shishkin/virusSpy/VirusSpy.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="24w26rmeDW5JuVyS4k7wN2oyKAz" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ru/shishkin" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Desktop/gitt/viruses&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Files\MakShish\Desktop\git\SimpleViruses\src\ru\shishkin" />
@@ -23,12 +53,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="SimpleVirusVersion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.shishkin.simpleVirusVersion1.SimpleVirusVersion1" />
-      <module name="SimpleViruses" />
+    <configuration name="AppVirus1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.shishkin.viruses.virus1.AppVirus1" />
+      <module name="Viruses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.shishkin.simpleVirusVersion1.*" />
+          <option name="PATTERN" value="ru.shishkin.viruses.virus1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -38,9 +68,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleVirusVersion1" />
+        <item itemvalue="Application.AppVirus1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d43101a-bda4-443b-a270-af80200cbda8" name="Changes" comment="" />
+      <created>1707331522517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707331522517</updated>
+    </task>
+    <servers />
+  </component>
 </project>

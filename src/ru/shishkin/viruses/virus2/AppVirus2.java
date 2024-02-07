@@ -1,10 +1,10 @@
-package ru.shishkin.simpleVirusVersion2;
+package ru.shishkin.viruses.virus2;
 
 import javax.swing.*;
 import java.awt.*;
 import java.util.Random;
 
-public class SimpleVirusVersion2 {
+public class AppVirus2 {
     public static void main(String[] args) {
         Random rnd = new Random();
 

@@ -1,4 +1,4 @@
-package ru.shishkin.simpleVirusVersion2;
+package ru.shishkin.viruses.virus2;
 
 import javax.swing.*;
 import java.awt.*;
