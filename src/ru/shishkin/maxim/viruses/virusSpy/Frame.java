@@ -1,4 +1,4 @@
-package ru.shishkin.viruses.virusSpy;
+package ru.shishkin.maxim.viruses.virusSpy;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

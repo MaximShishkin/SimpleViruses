@@ -1,4 +1,4 @@
-package ru.shishkin.viruses.virus2;
+package ru.shishkin.maxim.viruses.virus2;
 
 import javax.swing.*;
 import java.awt.*;
